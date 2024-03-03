@@ -16,7 +16,7 @@ mainAxisAlignment: MainAxisAlignment.spaceBetween,
 crossAxisAlignment: CrossAxisAlignment.center,
 children: [
 Text(
-"Hello, Shivam!",
+"Hello, Vipul!",
 style: TextStyle(
 fontSize: 25,
 color: Colors.black,
